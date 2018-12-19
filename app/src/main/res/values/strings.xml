@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App21SharedPreferences</string>
+    <string name="btnLogin">LOGIN</string>
+    <string name="etPasswordHint">Enter Password</string>
+    <string name="etNameHint">Enter Name</string>
+    <string name="checkBoxTexte">remember my login information</string>
+    <string name="name">Name</string>
+</resources>
